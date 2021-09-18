@@ -9,3 +9,5 @@
 - [Unit04](https://github.com/jihm/IMLP343/tree/main/Unit04)
 - [Unit05](https://github.com/jihm/IMLP343/tree/main/Unit05)
 - [Unit06](https://github.com/jihm/IMLP343/tree/main/Unit06)
+- [Unit07](https://github.com/jihm/IMLP343/tree/main/Unit07)
+- [Unit08](https://github.com/jihm/IMLP343/tree/main/Unit08)
